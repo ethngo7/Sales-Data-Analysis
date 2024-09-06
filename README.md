@@ -1,1 +1,1 @@
-# Sales-Data-Analysis
+This is an analysis of sales from a Kaggle dataset. Within this project, I utilized Python (specifically numPy, Pandas, Matplotlib) to help in tasks. Some tasks include data cleaning, correlation analysis, statistical analysis, and a summary report at the end. 
